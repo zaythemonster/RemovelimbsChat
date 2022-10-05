@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/HatredZay/RemovelimbsChat/main/RemovelimbsChat.lua'))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/HatredZay/RemovelimbsChat/main/RemovelimbsChat.lua'),true))()
